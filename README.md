@@ -1,6 +1,6 @@
 # Hey, I'm Ankit 👋
 
-**Backend Developer · Java & Spring Boot · Healthcare Domain**
+**Backend Developer · Java & Spring Boot**
 *Building clean APIs, one endpoint at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-salv-gupta/)
